@@ -1,0 +1,4 @@
+A btn to save post
+A btn to view save osts
+both the above feature should be accessible via kid shortcut
+both the features should be available on voice command also

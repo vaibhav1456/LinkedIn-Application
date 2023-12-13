@@ -1,0 +1,8 @@
+Instal ext, see "hw" on the console
+Create the saved posts  btn
+Beautify it.
+Enable the click of the ctn and log something
+Open saved posts on the click of this btn
+Make a kbd shortcut work and log something
+Make the kbd shrtcut open saved posts
+Make the code listen and log.
